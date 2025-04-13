@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/Maps/VFX_Part03.umap",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/FX/NS_FlameBody.uasset",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/Texture/M_Flame.uasset",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/Texture/M_OverlayFlame.uasset",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/Texture/M_OverlayFlame_Inst.uasset",
+				"C:/Users/prash/OneDrive/Desktop/AFT-718 (VFX)/AFT718_Prashant_12201956_CA_02_Part_3/AFT718_Prashant_12201956_CA_02_Part_3/VFX_Part03/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset"
+			]
+		}
+	]
+}
